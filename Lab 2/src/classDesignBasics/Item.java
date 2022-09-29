@@ -1,5 +1,7 @@
 package classDesignBasics;
 // lab 2.1
+import java.util.*;
+
 
 public class Item {
      private String itemName;
@@ -7,22 +9,19 @@ public class Item {
      private int itemQuantity;
      private double itemPrice;
 
-    public Item(String itemName, String itemIdNo, int itemQuantity, double itemPrice) {
-        this.itemName = itemName;
-        this.itemIdNo = itemIdNo;
-        this.itemQuantity = itemQuantity;
-        this.itemPrice = itemPrice;
-    }
 
     public Item(String itemName, String itemIdNo, int itemQuantity) {
         this.itemName = itemName;
         this.itemIdNo = itemIdNo;
         this.itemQuantity = itemQuantity;
+        this.itemPrice = 500;
     }
 
     public Item(String itemName, String itemIdNo) {
         this.itemName = itemName;
         this.itemIdNo = itemIdNo;
+        this.itemQuantity = 1;
+        this.itemPrice = 500;
     }
 
     public String getItemName() {
@@ -56,4 +55,5 @@ public class Item {
     public void setItemPrice(double itemPrice) {
         this.itemPrice = itemPrice;
     }
+
 }

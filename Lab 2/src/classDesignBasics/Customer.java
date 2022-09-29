@@ -53,7 +53,7 @@ public class Customer {
     }
 
     public void buyItem(Item item){
-        if (item.getItemQuantity() <= 1){
+        if (item.getItemQuantity() < 1){
             System.out.println("Invalid purchase");
         } else{
             if (this.balance >= (item.getItemQuantity()* item.getItemPrice())){
