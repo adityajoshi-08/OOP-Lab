@@ -1,1 +1,2 @@
 - Shorya Kushwaha
+- ritikjaykar
