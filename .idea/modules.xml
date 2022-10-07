@@ -4,8 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lab 1/Lab 1.iml" filepath="$PROJECT_DIR$/Lab 1/Lab 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab 2/Lab 2.iml" filepath="$PROJECT_DIR$/Lab 2/Lab 2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab 4/Lab 4.iml" filepath="$PROJECT_DIR$/Lab 4/Lab 4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/Lab3/Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 5/Lab 5.iml" filepath="$PROJECT_DIR$/Lab 5/Lab 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 6 - String Handling in Java/Lab 6 - String Handling in Java.iml" filepath="$PROJECT_DIR$/Lab 6 - String Handling in Java/Lab 6 - String Handling in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab4/Lab4.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP-Lab.iml" filepath="$PROJECT_DIR$/OOP-Lab.iml" />
     </modules>
   </component>
