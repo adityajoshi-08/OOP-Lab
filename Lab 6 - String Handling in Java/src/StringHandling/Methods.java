@@ -9,13 +9,15 @@ public class Methods {
         System.out.println(s1.length());
 
         Scanner in = new Scanner(System.in);
-//        String s2 = in.nextLine();
-//        System.out.println(s1.equals(s2));
-//
-//        System.out.println(s1.compareTo(s2));
+        String s2 = in.nextLine();
+        System.out.println(s1.equals(s2));
+        System.out.println(s1 == s2);
 
-        String s2 = s1.concat("adit");
+        System.out.println(s1.compareTo(s2));
+
+        String s3 = s1.concat("adit");
         System.out.println(s2);
+
 
     }
 }
