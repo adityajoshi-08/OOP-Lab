@@ -1,10 +1,10 @@
 package Questions;
-
+//exercise 1.2
 public class SingleInheritanceMain {
     public static void main(String[] args) {
 //        new E().show();
-        A e = new B();
-        System.out.println(e.getClass());
+        E e = new E();
+        e.show();
     }
 }
 
