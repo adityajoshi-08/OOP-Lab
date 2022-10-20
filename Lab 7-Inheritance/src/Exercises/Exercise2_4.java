@@ -1,4 +1,4 @@
-package Questions;
+package Exercises;
 
 class Employee{
     String name;

@@ -1,7 +1,7 @@
-package Questions;
+package Exercises;
 
 // No need to print
-public class SingleInheritance {
+public class Exercise1_2 {
     public static void main(String[] args) {
         System.out.println("For cy1");
         Cylinder cy1 = new Cylinder();

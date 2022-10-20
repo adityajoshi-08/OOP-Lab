@@ -1,6 +1,4 @@
-package Questions;
-
-import org.w3c.dom.ls.LSOutput;
+package Exercises;
 
 abstract class Worker{
     String name;
