@@ -30,6 +30,9 @@ class FullTimeWorker extends Worker{
 
 
     public double computePay() {
+        if (hours_worked>240){
+            return 100*240;
+        }
         return 100 * hours_worked;
     }
 }
@@ -43,6 +46,9 @@ class HourlyWorker extends Worker{
     }
 
     public double computePay() {
+        if (hours_worked > 60){
+            return 50 * 60;
+        }
         return 50 * hours_worked;
     }
 }
