@@ -1,5 +1,3 @@
-package Exercises;
-
 // No need to print
 public class Exercise1_2 {
     public static void main(String[] args) {

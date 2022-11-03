@@ -1,5 +1,3 @@
-package Exercises;
-
 abstract class Worker{
     String name;
     double salary_rate;

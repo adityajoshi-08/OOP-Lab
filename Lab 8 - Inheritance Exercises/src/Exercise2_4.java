@@ -1,5 +1,3 @@
-package Exercises;
-
 class Employee{
     String name;
     double salary;

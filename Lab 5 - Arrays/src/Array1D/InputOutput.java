@@ -2,7 +2,7 @@ package Array1D;
 
 import java.util.Scanner;
 
-public class InputOutput {
+public class  InputOutput {
 
     public static void main(String[] args) {
         int[] array = new int[5];
