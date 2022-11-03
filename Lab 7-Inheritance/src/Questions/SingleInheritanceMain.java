@@ -2,7 +2,6 @@ package Questions;
 //exercise 1.2
 public class SingleInheritanceMain {
     public static void main(String[] args) {
-//        new E().show();
         E e = new E();
         e.show();
     }
