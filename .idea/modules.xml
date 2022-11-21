@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lab 1/Lab 1.iml" filepath="$PROJECT_DIR$/Lab 1/Lab 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab 10 - Exception Handling/Lab 10 - Exception Handling.iml" filepath="$PROJECT_DIR$/Lab 10 - Exception Handling/Lab 10 - Exception Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab 2/Lab 2.iml" filepath="$PROJECT_DIR$/Lab 2/Lab 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab 5 - Arrays/Lab 5 - Arrays.iml" filepath="$PROJECT_DIR$/Lab 5 - Arrays/Lab 5 - Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab 6 - String Handling in Java/Lab 6 - String Handling in Java.iml" filepath="$PROJECT_DIR$/Lab 6 - String Handling in Java/Lab 6 - String Handling in Java.iml" />
