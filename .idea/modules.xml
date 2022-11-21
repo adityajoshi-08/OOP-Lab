@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinalExam/FinalExam.iml" filepath="$PROJECT_DIR$/FinalExam/FinalExam.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab 1/Lab 1.iml" filepath="$PROJECT_DIR$/Lab 1/Lab 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab 10 - Exception Handling/Lab 10 - Exception Handling.iml" filepath="$PROJECT_DIR$/Lab 10 - Exception Handling/Lab 10 - Exception Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab 2/Lab 2.iml" filepath="$PROJECT_DIR$/Lab 2/Lab 2.iml" />
