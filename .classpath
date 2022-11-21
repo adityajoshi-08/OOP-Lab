@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Lab 1/src"/>
+	<classpathentry kind="src" path="Lab 2/src"/>
+	<classpathentry kind="src" path="Lab 5 - Arrays/src"/>
+	<classpathentry kind="src" path="Lab 6 - String Handling in Java/src"/>
+	<classpathentry kind="src" path="Lab 7-Inheritance/src"/>
+	<classpathentry kind="src" path="Lab 8 - Inheritance Exercises/src"/>
+	<classpathentry kind="src" path="Lab 9 - Interfaces/src"/>
+	<classpathentry kind="src" path="Lab4/src"/>
+	<classpathentry kind="output" path="out/production/Lab 1"/>
+</classpath>

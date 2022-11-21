@@ -12,6 +12,9 @@ public class FinalMethods extends FinalShape{
 
     public static void main(String[] args) {
         FinalMethods fm = new FinalMethods();
+        FinalMethods fm2 = new FinalMethods();
+        FinalMethods fm3  = fm;
+
         fm.print();
     }
 }
